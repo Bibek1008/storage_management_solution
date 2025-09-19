@@ -17,6 +17,8 @@ A modern, full-featured cloud storage management application built with Next.js 
 - **🎨 Modern UI**: Beautiful interface built with Tailwind CSS and Radix UI
 - **⚡ Real-time Updates**: Live file operations and storage updates
 - **🗂️ File Organization**: Create folders, move files, and organize your storage
+- <img width="1882" height="981" alt="image" src="https://github.com/user-attachments/assets/a8aca023-526c-444a-b1fb-fd0aae8b744c" />
+
 
 ## 🛠️ Technology Stack
 
